@@ -1,9 +1,13 @@
 #include <stdio.h>
-
-
+/**************************************  * Trabalho 2 de Programacao de Computadores I - Retangulo 
+ * * Curso de Sistemas da informacao 
+* Aluno: Carlos Henrique - matricula: 0050013583
+* Professor: Alex Salgado ***************************************/
 
 
 int main() 
+
+
 
 {
 	
@@ -22,7 +26,7 @@ int main()
         scanf("%d", &i);
         printf("Informe a largura\n");
         scanf("%d", &j);
-        printf("Escolha um caracter de sua preferência?\n");
+        printf("Escolha um caracter de sua preferÃªncia?\n");
         scanf(" %c", &simbolo);
         
         printf("Ola, meu nome e Carlos Henrique e o seu retangulo ficou assim:\n");
